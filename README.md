@@ -66,5 +66,5 @@ Le seguenti immagini descrivono le parti principali dell'applicazione:
 <br/>
 <br/>
 
-[portfolio web site](https://www.dev-ita.it)
-[git account](https://www.dev-ita.it)
+[portfolio web site](https://www.dev-ita.it) <br/>
+[git account](https://github.com/pippo-github)
