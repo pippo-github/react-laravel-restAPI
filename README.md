@@ -34,14 +34,16 @@ php artisan ui react
 php artisan storage:link
 ```
 
+## React and resource
+
+
 ```
 npm install
 npm run watch
 ```
 
 
-Le seguenti immagini descrivono le parti principali dell'applicazione:
-
+The following images describe the main parts of the application:
 
 ***Home page:***
 
