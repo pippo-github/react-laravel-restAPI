@@ -2,7 +2,7 @@
 
 The application shows how to obtain the values ​​of some REST API, taken from an online server, the obtained data is saved on the local MySQL db, and then displayed through the UI of the Laravel Blade tamplate layout, in this example the laravel framework is also used , to create some simple components.
 
-The data are displayed thanks to the ONE-to-ONE relationships, made available by Eloquent ORM of laravel.
+The data are displayed thanks to the ONE-to-ONE relationships, made available by Eloquent ORM of Laravel.
 
 To use the dump of the tables, create a MySQL db named: ***movie_d***, then to restore the empty tables, use the file: ***movie_db.sql***, located in the root of the repository.
 
