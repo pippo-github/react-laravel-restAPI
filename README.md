@@ -31,6 +31,7 @@ Per utilizzare il dump delle tabelle, crea un db MySQL nominato: ***movie_db***,
 composer install
 composer require laravel/ui
 php artisan ui react
+php artisan storage:link
 ```
 
 ```
