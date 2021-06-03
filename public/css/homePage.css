@@ -1,0 +1,10 @@
+body{
+    background-image: radial-gradient(circle at 29% 55%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 4%,transparent 4%, transparent 44%,transparent 44%, transparent 100%),radial-gradient(circle at 85% 89%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 51%,transparent 51%, transparent 52%,transparent 52%, transparent 100%),radial-gradient(circle at 6% 90%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 53%,transparent 53%, transparent 64%,transparent 64%, transparent 100%),radial-gradient(circle at 35% 75%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 6%,transparent 6%, transparent 98%,transparent 98%, transparent 100%),radial-gradient(circle at 56% 75%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 16%,transparent 16%, transparent 23%,transparent 23%, transparent 100%),radial-gradient(circle at 42% 0%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 3%,transparent 3%, transparent 26%,transparent 26%, transparent 100%),radial-gradient(circle at 29% 28%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 51%,transparent 51%, transparent 75%,transparent 75%, transparent 100%),radial-gradient(circle at 77% 21%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 35%,transparent 35%, transparent 55%,transparent 55%, transparent 100%),radial-gradient(circle at 65% 91%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 46%,transparent 46%, transparent 76%,transparent 76%, transparent 100%),linear-gradient(45deg, rgb(235,83,89),rgb(174,11,40));
+}
+
+h1
+{
+    color: white;
+    font-family: cursive, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+

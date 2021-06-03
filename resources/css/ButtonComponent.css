@@ -1,0 +1,30 @@
+.myClass{
+    background: yellow;
+}
+
+
+.mainContainerBtn{
+    display: grid;
+    gap: 22px;
+    
+    grid-auto-flow: row dense!important;
+    grid-template-columns: repeat(3, 1fr);
+    
+    /* border: solid mediumaquamarine 2px; */
+    /* background: yellow; */
+    width: 100%!important;
+}
+
+.my_btnCtr{
+    background: rgb(8 51 48)!important;
+}
+
+.my_btnCtr:hover{
+    background: rgba(8 51 18)!important;
+    transition: 1s;
+}
+
+.boxResetDB{
+    /* border: solid yellow 3px; */
+    width: 100%;
+}

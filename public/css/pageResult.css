@@ -1,0 +1,56 @@
+body{
+    background-image: radial-gradient(circle at 29% 55%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 4%,transparent 4%, transparent 44%,transparent 44%, transparent 100%),radial-gradient(circle at 85% 89%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 51%,transparent 51%, transparent 52%,transparent 52%, transparent 100%),radial-gradient(circle at 6% 90%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 53%,transparent 53%, transparent 64%,transparent 64%, transparent 100%),radial-gradient(circle at 35% 75%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 6%,transparent 6%, transparent 98%,transparent 98%, transparent 100%),radial-gradient(circle at 56% 75%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 16%,transparent 16%, transparent 23%,transparent 23%, transparent 100%),radial-gradient(circle at 42% 0%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 3%,transparent 3%, transparent 26%,transparent 26%, transparent 100%),radial-gradient(circle at 29% 28%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 51%,transparent 51%, transparent 75%,transparent 75%, transparent 100%),radial-gradient(circle at 77% 21%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 35%,transparent 35%, transparent 55%,transparent 55%, transparent 100%),radial-gradient(circle at 65% 91%, rgba(38,2,2, 0.05) 0%, rgba(38,2,2, 0.05) 46%,transparent 46%, transparent 76%,transparent 76%, transparent 100%),linear-gradient(45deg, rgb(235,83,89),rgb(174,11,40));}
+
+
+.labelContent{
+ display: inline-block;
+ min-width: 77px;
+ color: white;
+ font-size: 1.0em;
+}
+.content{
+    display: inline-block;
+    margin: 11px 0px 2px 11px;
+    color: rgb(167, 18, 18);
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 1.0em;
+
+}
+
+
+h1:nth-child(1){
+    margin-top: 22px;
+    color: white;
+}
+
+h1:nth-child(3){
+    display: block;
+    padding-top: 33px;
+    color: rgb(230, 84, 17);
+    text-decoration: underline;
+}
+
+p{
+    margin: 33px 0 33px 0px ;
+    color: white;
+    font-style: italic;
+}
+
+
+.block_card {
+    background-image: radial-gradient(circle at 29% 55%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 4%,transparent 4%, transparent 44%,transparent 44%, transparent 100%),radial-gradient(circle at 85% 89%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 51%,transparent 51%, transparent 52%,transparent 52%, transparent 100%),radial-gradient(circle at 6% 90%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 53%,transparent 53%, transparent 64%,transparent 64%, transparent 100%),radial-gradient(circle at 35% 75%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 6%,transparent 6%, transparent 98%,transparent 98%, transparent 100%),radial-gradient(circle at 56% 75%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 16%,transparent 16%, transparent 23%,transparent 23%, transparent 100%),radial-gradient(circle at 42% 0%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 3%,transparent 3%, transparent 26%,transparent 26%, transparent 100%),radial-gradient(circle at 29% 28%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 51%,transparent 51%, transparent 75%,transparent 75%, transparent 100%),radial-gradient(circle at 77% 21%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 35%,transparent 35%, transparent 55%,transparent 55%, transparent 100%),radial-gradient(circle at 65% 91%, rgba(1,17,1, 0.05) 0%, rgba(1,17,1, 0.05) 46%,transparent 46%, transparent 76%,transparent 76%, transparent 100%),linear-gradient(45deg, rgb(46,184,46),rgb(76, 11, 174));
+
+border: solid white .2px;
+box-shadow: 2px 2px 11px black ;
+}
+
+
+
+@media screen and ( max-width: 555px) {
+    .block_card{
+        font-size: .7em;
+    }
+    
+}
