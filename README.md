@@ -4,6 +4,7 @@ The application shows how to obtain the values ​​of some REST API, taken fro
 
 The data are displayed thanks to the ONE-to-ONE relationships, made available by Eloquent ORM of laravel.
 
+To use the dump of the tables, create a MySQL db named: ***movie_d***, then to restore the empty tables, use the file: ***movie_db.sql***, located in the root of the repository.
 
 <br/>
 <br/>
@@ -15,6 +16,7 @@ L'applicazione mostra come ottenere i valori di alcune REST API, prelevate da un
 
 I dati sono visualizzati grazie alle relazioni UNO a UNO, messe a dispoizione da Eloquent ORM di laravel.
 
+Per utilizzare il dump delle tabelle, crea un db MySQL nominato: ***movie_db***, quindi per il ripristino delle tabelle vuote, utilizzare il file: ***movie_db.sql***, posto nella root del repository.
 
 <br/>
 <br/>
